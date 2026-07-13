@@ -2,6 +2,9 @@
 
 jq Language Support for VS Code
 
+> [!warning]
+> This project isn't going to be maintained. It's recommended to use <https://github.com/wader/vscode-jq>
+
 ## Features
 
 - Syntax highlighting
@@ -35,7 +38,3 @@ npx @vscode/vsce package
 # Install
 code --install-extension jq-language-support-*.vsix
 ```
-
-## Release Notes
-
-2026-1-2 v0.0.1
