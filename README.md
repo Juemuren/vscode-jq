@@ -1,4 +1,4 @@
-# jq-language-support
+# vscode-jq
 
 jq Language Support for VS Code
 
@@ -31,10 +31,10 @@ Not yet
 
 ```sh
 # Clone the repository
-git clone https://github.com/juemuren/jq-language-support.git
-cd jq-language-support
+git clone https://github.com/juemuren/vscode-jq.git
+cd vscode-jq
 # Package
 npx @vscode/vsce package
 # Install
-code --install-extension jq-language-support-*.vsix
+code --install-extension vscode-jq-*.vsix
 ```

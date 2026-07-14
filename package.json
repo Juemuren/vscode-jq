@@ -1,11 +1,11 @@
 {
-  "name": "jq-language-support",
+  "name": "vscode-jq",
   "displayName": "jq Language Support",
   "description": "jq Language Support for VS Code",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/juemuren/jq-language-support.git"
+    "url": "https://github.com/juemuren/vscode-jq.git"
   },
   "engines": {
     "vscode": "^1.107.0"
